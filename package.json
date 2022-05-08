@@ -1,0 +1,18 @@
+{
+  "name": "pwndd",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "repository": "https://github.com/pwndd/pwndd.git",
+  "author": "pwndd <privacc587@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "fill": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.19",
+    "axios": "^0.26.0",
+    "fast-xml-parser": "^4.0.3",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  }
+}
