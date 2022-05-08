@@ -5,7 +5,7 @@ Welcome to my Github
 <hr /><b>-------------- Links --------------</b>
  | > <a href="https://troll.avunit.tk">Meme</a>                      | 
  | > <a href="https://blog.avunit.tk">Blog</a>                     | 
- | > <a href="https://avunit.tk">Website</a>                      | 
+ | > <a href="https://avunit.tk">Website</a>                    | 
 <b>----------------------------------</b>
 
 <div align="center">
